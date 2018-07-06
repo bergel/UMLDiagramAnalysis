@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "UDAObject",
+	"category" : "UMLDiagramAnalysis-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"itemNames",
+		"connectedDiagrams",
+		"commonItemNames"
+	],
+	"name" : "UDADiagram",
+	"type" : "normal"
+}

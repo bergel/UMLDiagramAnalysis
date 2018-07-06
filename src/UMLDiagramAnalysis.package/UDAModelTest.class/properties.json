@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "UMLDiagramAnalysis-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"m"
+	],
+	"name" : "UDAModelTest",
+	"type" : "normal"
+}

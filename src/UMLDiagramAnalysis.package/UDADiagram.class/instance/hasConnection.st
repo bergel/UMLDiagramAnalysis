@@ -1,0 +1,3 @@
+public
+hasConnection
+	^ connectedDiagrams notEmpty

@@ -1,0 +1,3 @@
+public
+numberOfConnections
+	^ connectedDiagrams size
